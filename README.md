@@ -27,11 +27,29 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-00A3E0?style=for-the-badge)
 
-**End-to-end financial transaction analysis** on JP Morgan banking data (800 records) – data cleaning, customer segmentation, hypothesis testing, and rich visualizations.
+**A complete end-to-end financial transaction analysis** on JP Morgan banking data (800 records).  
+Includes data cleaning, descriptive analytics, customer profiling, segmentation, statistical testing, and professional visualizations.
 
 **[Watch Project Walkthrough Video](https://www.loom.com/share/59e65e2576c44e5ca21f848147ab43a4)**
+
+---
+
+## 📋 Project Highlights
+
+- **Data Cleaning & Standardization** – Fixed column names, standardized signs (Deposit/Transfer = +ve, Withdrawal/Payment = –ve), date formatting, rounding
+- **Descriptive Transactional Analysis** – Monthly & yearly credit/debit/net volume summaries
+- **Trends Visualization** – Credits vs Debits over time
+- **Account Performance** – Top 10 & Bottom 10 accounts by net inflow
+- **Dormant Account Detection** – Flagged accounts inactive for ≥2 months (84.54% dormant)
+- **Customer Profiling** – Activity Level segmentation (High/Medium/Low)
+- **Advanced Segmentation** – Volume segments (High/Low) & Balance segments
+- **Hypothesis Testing** (SciPy)  
+  - High vs Low volume accounts balance → **No significant difference**  
+  - Medium vs Low activity accounts balance → **No significant difference**
+- **Risk vs Credit Rating Analysis** – Scatter plot + correlation insight
 
 ---
 
@@ -58,31 +76,17 @@
 
 ---
 
-## 📋 Project Highlights
-
-- Full data cleaning & standardization (column names, signs, dates, rounding)
-- Monthly & yearly credit/debit/net volume analysis
-- Top/Bottom 10 accounts by net inflow
-- Dormant account detection (84.54% of accounts inactive ≥2 months)
-- Customer activity segmentation (High/Medium/Low)
-- Volume & balance segmentation
-- Statistical hypothesis testing (SciPy t-tests)
-- Professional visualizations with Matplotlib + Seaborn
-
----
-
 ## 🛠 Technologies Used
 
 - Python 3.13
 - Pandas, NumPy
 - Matplotlib, Seaborn
-- SciPy
+- SciPy (ttest_ind)
 - Jupyter Notebook
 
 ---
 
 ## 📁 Project Structure
-
 
 
 
