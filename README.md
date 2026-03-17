@@ -56,23 +56,23 @@ Includes data cleaning, descriptive analytics, customer profiling, segmentation,
 ## 📊 Key Visualizations
 
 ### 1. Transactions by Type
-![Transactions by Type](images/txn_type.png)
+![Transactions by Type](JP_Morgan_Visuals/txn_type.png)
 
 ### 2. Distribution of Account Balances
-![Distribution of Account Balances](images/bal_dist.png)
+![Distribution of Account Balances](JP_Morgan_Visuals/bal_dist.png)
 
 ### 3. Distribution of Transaction Amounts
-![Distribution of Transaction Amounts](images/txn_dist.png)
+![Distribution of Transaction Amounts](JP_Morgan_Visuals/txn_dist.png)
 
 ### 4. Average Balance by Region
-![Average Balance by Region](images/bal_region.png)
+![Average Balance by Region](JP_Morgan_Visuals/bal_region.png)
 
 ### 5. Risk Score vs Credit Rating
-![Risk Score vs Credit Rating](images/risk_credit.png)
+![Risk Score vs Credit Rating](JP_Morgan_Visuals/risk_credit.png)
 *Insight: Almost zero linear correlation – Risk Score is not a strong predictor of Credit Rating.*
 
 ### 6. Monthly Trends – Credits vs Debits
-![Trends in Credits vs Debits](images/trends.png)
+![Trends in Credits vs Debits](JP_Morgan_Visuals/trends.png)
 
 ---
 
