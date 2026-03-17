@@ -76,6 +76,16 @@ Includes data cleaning, descriptive analytics, customer profiling, segmentation,
 
 ---
 
+📌 Key Insights
+
+1.No statistically significant difference in balances between High/Low volume accounts or Medium/Low activity levels.
+
+2.84.54% accounts are dormant.
+
+3.Transaction signs properly standardized (+ve inflow / –ve outflow).
+
+4.Clear regional balance patterns and transaction distributions.
+
 ## 🛠 Technologies Used
 
 - Python 3.13
